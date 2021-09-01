@@ -1,1 +1,0 @@
-const input = get.document
